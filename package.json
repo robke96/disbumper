@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "2captcha": "^3.0.5",
+    "bufferutil": "^4.0.7",
+    "discord.js": "^14.7.1",
+    "discord.js-selfbot-v13": "^2.9.16",
+    "legend.js": "^11.9.5",
+    "nopecha": "^1.0.9"
+  }
+}
