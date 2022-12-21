@@ -22,7 +22,6 @@ client.on("messageCreate", async (msg) => {
   const embedDescription = msg.embeds[0]?.description;
 
   if (msg.flags.has("EPHEMERAL") && embedDescription.startsWith("Please wait")) {
-    console.log(msg)
     const timeInMin = embedDescription.replace(/\D/g, "")
     const timeInMS = parseInt(timeInMin) * 60000;
 
