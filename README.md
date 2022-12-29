@@ -6,7 +6,7 @@
 # Instructions
 
 1. Clone the repository 
-``git clone https://github.com/mh752/disbumper.git``
+``git clone https://github.com/robke96/disbumper.git``
 
 2. Fill in the account token and channel-ID - where the command will be executed, in **config.json**.
 
